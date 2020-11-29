@@ -1,0 +1,7 @@
+Assingnment :
+
+There are three assignments which ar as follows:
+
+1. JQuery Operations.
+2. Angular Operation.
+3. ExpressJs Operations.
